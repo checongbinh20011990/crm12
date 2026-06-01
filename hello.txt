@@ -1,2 +1,3 @@
 Hello
 May B lam chuc nang gửi sms
+May A lam tinh nang gửi mail
